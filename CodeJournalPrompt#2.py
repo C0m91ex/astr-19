@@ -6,7 +6,7 @@ float_2 = 5.0
 int_1 = 10
 int_2 = 6
 
-# Calculate the sum of two floating-point numbers
+# Main Function 
 def main():
 # Calculate the sum of two floating-point numbers
     sum_result = float_1 + float_2
@@ -20,5 +20,6 @@ def main():
     product_result = float_1 * int_1
     print(f"Product: {product_result}, Data Type: {type(product_result)}")
 
+# Calls the main function
 if __name__=="__main__":
     main()
