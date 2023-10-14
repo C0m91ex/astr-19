@@ -1,3 +1,5 @@
+# Coding Journal Prompt #4
+
 class SeaOtter:
     def __init__(self, arm_length, leg_length, num_eyes, has_tail, is_furry):
         self.arm_length = arm_length  # Length of the arms (float)
