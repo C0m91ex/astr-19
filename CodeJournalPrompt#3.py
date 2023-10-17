@@ -2,7 +2,7 @@
 
 # Define the function f(x)
 def f(x):
-    return x*3 + 8
+    return x * 3 + 8
 
 # Main function
 def main():
