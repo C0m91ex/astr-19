@@ -20,7 +20,7 @@ def print_sin_table(table):
 def main():
 	start = 0
 	end = 2 * np.pi 
-	number_points = 10
+	number_points = 1000
 
 	sin_table = generate_sin_table(start, end, number_points)
 	print_sin_table(sin_table)
